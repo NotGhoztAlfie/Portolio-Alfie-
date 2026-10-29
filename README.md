@@ -68,4 +68,11 @@ Prior to starting my course at college, I struggled with networking and only rea
 Potential future learning pathways for me are gaining experience with hardware by completing hands-on projects, getting confident with the networking side of the course, and potentially get work experience with a company after my college course.
 
 
+**Week 6**
+**Year 1 Review**
 
+I am considerably better at the theory side of the course rather than practical, considering I have received higher grades in Core 1 and 2 (Theory Assessments) than the ESP. I enjoy networking a lot more than I thought I would, and I also enjoy learning about older computer systems and the evolution of them. I believe my knowledge of the Core assessments will aid my overall grade, but I aspire to improve the practical side of my learning.
+
+So far, I have learnt that you must be confident in your abilities. For example, I doubt myself when thinking about practical learning and I believe I would function as an IT specialist a lot better after completing tasks multiple times. You must make smart, informed predictions of the problem at hand, as well as stay calm and composed in high stress situations. I believe that as an IT specialist, you must be able to do all of this comfortably and achieve good quality work.
+
+The areas I would like to improve on going into year 2 are the practical element and the current grades I am achieving. However, at the end of year 2, I would like to achieve at least a grade C as my overall course grade, get more confident in using different OS systems like command line and using different tools like CISCO packet tracer, and achieve work experience which sets me up for future opportunities within a company.
